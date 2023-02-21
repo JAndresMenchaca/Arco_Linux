@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'Mononoki Nerd Font', 'Droid Sans Mono'",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1
+}

@@ -1,0 +1,20 @@
+[Info  - 23:57:19] (2774) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 23:57:19] (2774) Server root directory: /home/andres/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 23:57:19] (2774) Auto-indent enabled
+[Info  - 23:57:19] (2774) Starting service instance "<default>"
+[Info  - 23:57:19] (2774) No pyproject.toml file found.
+[Info  - 23:57:19] (2774) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 23:57:19] (2774) stubPath typings is not a valid directory.
+[Info  - 23:57:19] (2774) Assuming Python version 3.10
+[Info  - 23:57:19] (2774) Assuming Python platform Linux
+[Info  - 23:57:20] (2774) Searching for source files
+[Info  - 23:57:20] (2774) No source files found.
+[Info  - 23:57:20] (2774) Background analysis(1) root directory: /home/andres/.vscode/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 23:57:20] (2774) Background analysis(1) started
+[Info  - 23:57:20] (2774) No pyproject.toml file found.
+[Info  - 23:57:20] (2774) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 23:57:20] (2774) stubPath typings is not a valid directory.
+[Info  - 23:57:20] (2774) Assuming Python version 3.10
+[Info  - 23:57:20] (2774) Assuming Python platform Linux
+[Info  - 23:57:20] (2774) Searching for source files
+[Info  - 23:57:20] (2774) No source files found.
